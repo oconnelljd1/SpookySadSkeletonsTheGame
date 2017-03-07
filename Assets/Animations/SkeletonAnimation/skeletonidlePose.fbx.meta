@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 93081bf9b3d93c54f9384a17d4571887
+timeCreated: 1463752527
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abs_CTRL
+    100002: AllCtrl
+    100004: AllIK
+    100006: AllJoint
+    100008: Chest_CTRL
+    100010: curve1
+    100012: curve2
+    100014: Global_CTRL
+    100016: group1
+    100018: group2
+    100020: GroupRigAll
+    100022: hip_CTRL
+    100024: hipShake_CTRL
+    100026: ikHandle1
+    100028: ikHandle2
+    100030: ikHandle3
+    100032: ikHandle4
+    100034: ikHandle5
+    100036: ikHandle6
+    100038: ikHandle7
+    100040: ikHandle8
+    100042: LeftClavical_JNT
+    100044: LeftElbow_IK_CTRL
+    100046: LeftElbow_JNT
+    100048: LeftFoot_IK_JNT
+    100050: LeftHand_CTRL
+    100052: LeftHand_JNT
+    100054: LeftIndex1_JNT
+    100056: LeftIndex2_JNT
+    100058: LeftKneeCTRL
+    100060: leftLeg_IK_CTRL
+    100062: LeftMiddle1_JNT
+    100064: LeftMiddle2_JNT
+    100066: LeftPinky1_JNT
+    100068: LeftPinky2_JNT
+    100070: LeftShin_IK_JNT
+    100072: LeftShoulder_JNT
+    100074: LeftThigh_IK_JNT
+    100076: LeftThumb1_JNT
+    100078: LeftThumb2_JNT
+    100080: LeftToe_IK_JNT
+    100082: LeftToeTip_JNT
+    100084: LeftWrist_JNT
+    100086: LeftWristCtrl
+    100088: neckControl
+    100090: nurbsCircle1
+    100092: pasted__polySurface35
+    100094: RightArm_CTRL
+    100096: RightClavHandle
+    100098: RightClavical_JNT1
+    100100: RightElbow_IK_CTRL
+    100102: RightElbow_JNT
+    100104: RightFoot_IK_JNT
+    100106: RightHand_CTRL
+    100108: RightHand_JNT
+    100110: RightIndex1_JNT
+    100112: RightIndex2_JNT
+    100114: RightKneeCTRL
+    100116: RightLeg_IK_CTRL
+    100118: RightMiddle1_JNT
+    100120: RightMiddle2_JNT
+    100122: RightPinky1_JNT
+    100124: RightPinky2_JNT
+    100126: RightShin_IK_JNT
+    100128: RightShoulder_JNT
+    100130: RightThigh_IK_JNT1
+    100132: RightThumb1_JNT
+    100134: RightThumb2_JNT
+    100136: RightToe_IK_JNT
+    100138: RightToeTip_JNT
+    100140: RightWrist_JNT
+    100142: RightwristCtrl
+    100144: root_spine1_jnt
+    100146: //RootNode
+    100148: spine2_jnt
+    100150: spine3_jnt
+    100152: spine4_jnt
+    100154: spine5_jnt
+    100156: spine6_jnt
+    100158: spine7_jnt
+    100160: spine8_jnt
+    100162: spine9_jnt
+    100164: SpineHandle
+    100166: transform1
+    100168: transform2
+    100170: transform3
+    100172: transform4
+    100174: transform5
+    100176: transform6
+    100178: transform7
+    400000: abs_CTRL
+    400002: AllCtrl
+    400004: AllIK
+    400006: AllJoint
+    400008: Chest_CTRL
+    400010: curve1
+    400012: curve2
+    400014: Global_CTRL
+    400016: group1
+    400018: group2
+    400020: GroupRigAll
+    400022: hip_CTRL
+    400024: hipShake_CTRL
+    400026: ikHandle1
+    400028: ikHandle2
+    400030: ikHandle3
+    400032: ikHandle4
+    400034: ikHandle5
+    400036: ikHandle6
+    400038: ikHandle7
+    400040: ikHandle8
+    400042: LeftClavical_JNT
+    400044: LeftElbow_IK_CTRL
+    400046: LeftElbow_JNT
+    400048: LeftFoot_IK_JNT
+    400050: LeftHand_CTRL
+    400052: LeftHand_JNT
+    400054: LeftIndex1_JNT
+    400056: LeftIndex2_JNT
+    400058: LeftKneeCTRL
+    400060: leftLeg_IK_CTRL
+    400062: LeftMiddle1_JNT
+    400064: LeftMiddle2_JNT
+    400066: LeftPinky1_JNT
+    400068: LeftPinky2_JNT
+    400070: LeftShin_IK_JNT
+    400072: LeftShoulder_JNT
+    400074: LeftThigh_IK_JNT
+    400076: LeftThumb1_JNT
+    400078: LeftThumb2_JNT
+    400080: LeftToe_IK_JNT
+    400082: LeftToeTip_JNT
+    400084: LeftWrist_JNT
+    400086: LeftWristCtrl
+    400088: neckControl
+    400090: nurbsCircle1
+    400092: pasted__polySurface35
+    400094: RightArm_CTRL
+    400096: RightClavHandle
+    400098: RightClavical_JNT1
+    400100: RightElbow_IK_CTRL
+    400102: RightElbow_JNT
+    400104: RightFoot_IK_JNT
+    400106: RightHand_CTRL
+    400108: RightHand_JNT
+    400110: RightIndex1_JNT
+    400112: RightIndex2_JNT
+    400114: RightKneeCTRL
+    400116: RightLeg_IK_CTRL
+    400118: RightMiddle1_JNT
+    400120: RightMiddle2_JNT
+    400122: RightPinky1_JNT
+    400124: RightPinky2_JNT
+    400126: RightShin_IK_JNT
+    400128: RightShoulder_JNT
+    400130: RightThigh_IK_JNT1
+    400132: RightThumb1_JNT
+    400134: RightThumb2_JNT
+    400136: RightToe_IK_JNT
+    400138: RightToeTip_JNT
+    400140: RightWrist_JNT
+    400142: RightwristCtrl
+    400144: root_spine1_jnt
+    400146: //RootNode
+    400148: spine2_jnt
+    400150: spine3_jnt
+    400152: spine4_jnt
+    400154: spine5_jnt
+    400156: spine6_jnt
+    400158: spine7_jnt
+    400160: spine8_jnt
+    400162: spine9_jnt
+    400164: SpineHandle
+    400166: transform1
+    400168: transform2
+    400170: transform3
+    400172: transform4
+    400174: transform5
+    400176: transform6
+    400178: transform7
+    4300000: pasted__polySurface35
+    7400000: SkeletonIdle
+    9500000: //RootNode
+    13700000: pasted__polySurface35
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SkeletonIdle
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Global_CTRL
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/pasted__polySurface35
+        weight: 1
+      - path: GroupRigAll
+        weight: 1
+      - path: GroupRigAll/AllCtrl
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/LeftHand_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/LeftHand_CTRL/ikHandle1
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/LeftHand_CTRL/LeftElbow_IK_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/LeftHand_CTRL/LeftWristCtrl
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/RightHand_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/RightHand_CTRL/ikHandle2
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/RightHand_CTRL/RightArm_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/RightHand_CTRL/RightElbow_IK_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/Chest_CTRL/RightHand_CTRL/RightwristCtrl
+        weight: 1
+      - path: GroupRigAll/AllCtrl/leftLeg_IK_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/leftLeg_IK_CTRL/ikHandle3
+        weight: 1
+      - path: GroupRigAll/AllCtrl/leftLeg_IK_CTRL/ikHandle4
+        weight: 1
+      - path: GroupRigAll/AllCtrl/leftLeg_IK_CTRL/ikHandle5
+        weight: 1
+      - path: GroupRigAll/AllCtrl/leftLeg_IK_CTRL/LeftKneeCTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/RightLeg_IK_CTRL
+        weight: 1
+      - path: GroupRigAll/AllCtrl/RightLeg_IK_CTRL/ikHandle6
+        weight: 1
+      - path: GroupRigAll/AllCtrl/RightLeg_IK_CTRL/ikHandle7
+        weight: 1
+      - path: GroupRigAll/AllCtrl/RightLeg_IK_CTRL/ikHandle8
+        weight: 1
+      - path: GroupRigAll/AllCtrl/RightLeg_IK_CTRL/RightKneeCTRL
+        weight: 1
+      - path: GroupRigAll/AllIK
+        weight: 1
+      - path: GroupRigAll/AllIK/SpineHandle
+        weight: 1
+      - path: GroupRigAll/AllJoint
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/curve1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/group1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/LeftThigh_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/LeftThigh_IK_JNT/LeftShin_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/LeftThigh_IK_JNT/LeftShin_IK_JNT/LeftFoot_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/LeftThigh_IK_JNT/LeftShin_IK_JNT/LeftFoot_IK_JNT/LeftToe_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/LeftThigh_IK_JNT/LeftShin_IK_JNT/LeftFoot_IK_JNT/LeftToe_IK_JNT/LeftToeTip_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/curve2
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftIndex1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftIndex1_JNT/LeftIndex2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftMiddle1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftMiddle1_JNT/LeftMiddle2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftPinky1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftPinky1_JNT/LeftPinky2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftThumb1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/LeftClavical_JNT/LeftShoulder_JNT/LeftElbow_JNT/LeftWrist_JNT/transform5/LeftHand_JNT/LeftThumb1_JNT/LeftThumb2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/nurbsCircle1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/nurbsCircle1/transform7
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/nurbsCircle1/transform7/spine8_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/nurbsCircle1/transform7/spine8_jnt/spine9_jnt
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightIndex1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightIndex1_JNT/RightIndex2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightMiddle1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightMiddle1_JNT/RightMiddle2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightPinky1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightPinky1_JNT/RightPinky2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightThumb1_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/RightClavical_JNT1/RightShoulder_JNT/RightElbow_JNT/RightWrist_JNT/transform6/RightHand_JNT/RightThumb1_JNT/RightThumb2_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/spine3_jnt/abs_CTRL/spine4_jnt/spine5_jnt/spine6_jnt/spine7_jnt/transform3
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4/RightThigh_IK_JNT1
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4/RightThigh_IK_JNT1/RightShin_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4/RightThigh_IK_JNT1/RightShin_IK_JNT/RightFoot_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4/RightThigh_IK_JNT1/RightShin_IK_JNT/RightFoot_IK_JNT/RightToe_IK_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/hipShake_CTRL/spine2_jnt/transform4/RightThigh_IK_JNT1/RightShin_IK_JNT/RightFoot_IK_JNT/RightToe_IK_JNT/RightToeTip_JNT
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/neckControl
+        weight: 1
+      - path: GroupRigAll/AllJoint/hip_CTRL/transform1/root_spine1_jnt/neckControl/transform2
+        weight: 1
+      - path: RightClavHandle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
